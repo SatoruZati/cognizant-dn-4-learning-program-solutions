@@ -6,6 +6,7 @@ This repository contains solutions and exercises for the Cognizant Digital Nurtu
 
 ```
 cognizant-dn-4-learning-program-solutions/
+├── README.md
 ├── Week-1-Data structures and Algorithms/
 │   ├── code/
 │   │   ├── Exercise02/          # E-commerce Product Search
@@ -20,7 +21,18 @@ cognizant-dn-4-learning-program-solutions/
 │   └── output/
 │       ├── exercise01/
 │       └── exercise02/
-└── Week-2/                      
+├── Week-2-JUnit_Basic_Testing_Exercises/
+│   ├── code/
+│   └── output/
+├── Week-2-Mockito_exercises/    
+├── Week-2-PLSQL_Exercises/
+│   ├── code/
+│   │   ├── Exercise_01/         # Control Structures
+│   │   └── Exercise_03/         # Stored Procedures
+│   └── output/
+│       ├── exercise1output/
+│       └── exercise3output/
+└── Week-2-SL4J_Logging_exercises/  
 ```
 
 ### Prerequisites
