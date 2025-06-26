@@ -72,7 +72,7 @@ Each exercise includes output screenshots demonstrating the program execution:
 
 This repository is part of the Cognizant Digital Nurture 4.0 Learning Program. Solutions are provided for submission purposes.
 
-## License
+## Note
 
 This project is created for educational purposes as part of the Cognizant Digital Nurture 4.0 Learning Program.
 
