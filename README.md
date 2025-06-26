@@ -54,11 +54,6 @@ cognizant-dn-4-learning-program-solutions/
 - User input for investment parameters (principal, rate, time period)
 - Formatted output showing projected values
 
-**Learning Objectives:**
-- Understanding recursion vs iteration
-- Implementing financial calculations
-- Comparing algorithmic approaches for the same problem
-
 ## Week 1: Design Principles & Patterns
 
 ### Exercise 01: Singleton Pattern
@@ -123,57 +118,12 @@ cognizant-dn-4-learning-program-solutions/
    java exercise2
    ```
 
-### Example Usage
-
-**For Product Search (Exercise 02):**
-```
-Enter product ID to search: 105
-Linear Search found: Wired Headphones
-Binary Search found: Wired Headphones
-```
-
-**For Financial Forecasting (Exercise 07):**
-```
-Enter initial investment amount: 1000
-Enter annual increase rate (as percentage, e.g., 7 for 7%): 7
-Enter number of years: 5
-Initial investment: $1000.0
-Annual increase: 7.0%
-Years: 5
-Projected value after 5 years (recursive): $1403
-Projected value after 5 years (iterative): $1403
-Total interest earned: $403
-```
-
 ## Output Screenshots
 
 Each exercise includes output screenshots demonstrating the program execution:
 - Exercise outputs are stored in respective `output/` directories
 - Screenshots show console interactions and results
 
-## Learning Outcomes
-
-By completing these exercises, you will gain understanding of:
-
-### Data Structures & Algorithms:
-- Search algorithms and their time complexities
-- Sorting algorithms and their applications
-- Recursive vs iterative problem-solving approaches
-- Algorithm analysis and optimization
-
-### Design Patterns:
-- Creational design patterns (Singleton, Factory Method)
-- Object-oriented programming principles
-- Interface-based design
-- Code reusability and maintainability
-
-## Future Weeks
-
-- **Week-2:** Additional topics and exercises (to be added)
-- More advanced algorithms and data structures
-- Additional design patterns and principles
-
-## Contributing
 
 This repository is part of the Cognizant Digital Nurture 4.0 Learning Program. Solutions are provided for submission purposes.
 
@@ -182,5 +132,3 @@ This repository is part of the Cognizant Digital Nurture 4.0 Learning Program. S
 This project is created for educational purposes as part of the Cognizant Digital Nurture 4.0 Learning Program.
 
 ---
-
-**Note:** This repository contains learning exercises and solutions. Each exercise is designed to reinforce specific computer science concepts and programming practices.
